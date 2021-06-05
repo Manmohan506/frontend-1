@@ -1,3 +1,8 @@
 @Library('roboshop') _
 
-roboshop("frontend-1")
+roboshop (
+    COMPONENT                 : 'frontend',
+    PROJECT_NAME              : "RoboShop",
+    SLAVE_LABEL               : "MASTER",
+    SKIP_NEXUS_UPLOAD         :  false
+) 
