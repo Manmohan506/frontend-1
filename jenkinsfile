@@ -2,7 +2,7 @@
 
 roboshop (
     COMPONENT                 : 'frontend-1',
-    PROJECT_NAME              : "roboShop",
+    PROJECT_NAME              : "roboshop",
     SLAVE_LABEL               : "node",
     SKIP_NEXUS_UPLOAD         :  false,
     APP_TYPE                  : "NGINX"
